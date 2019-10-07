@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lcylty.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-10-07T12:45:09.888Z</updated>
+    <title>Stockings</title>
+    <updated>2019-10-07T13:07:57.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lcylty.github.io/"/>
     <link rel="self" href="https://lcylty.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>无法自拔</subtitle>
     <logo>https://lcylty.github.io//images/avatar.png</logo>
     <icon>https://lcylty.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Stockings</rights>
+    <entry>
+        <title type="html"><![CDATA[阿道夫]]></title>
+        <id>https://lcylty.github.io//post/a-dao-fu</id>
+        <link href="https://lcylty.github.io//post/a-dao-fu">
+        </link>
+        <updated>2019-10-07T13:04:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>只能，麻烦你，那地方adfkadalk 阿萨德饭了😒<img src="https://lcylty.github.io//post-images/1570453495314.PNG" alt=""></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>只能，麻烦你，那地方adfkadalk 阿萨德饭了😒<img src="https://lcylty.github.io//post-images/1570453495314.PNG" alt=""></p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lcylty.github.io//post/hello-gridea</id>
